@@ -25,6 +25,11 @@ a geography test in school.
 
 ---
 
+## 📸 Demo
+
+<img alt="State Guessing Game Demo" height="400" src="images/demo_image.png" width="400"/>
+
+---
 ## 🖼️ Requirements
 
 - `images/blank_states_img.gif`: A map of the U.S. with blank state outlines.
